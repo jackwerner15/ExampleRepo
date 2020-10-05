@@ -9,3 +9,12 @@
 #strikeout {
     text-decoration: line-through;
 }
+
+.blue {
+    color: blue
+}
+.massive {
+    font-size: 100px;
+    font-family: cursive;
+    font-weight: 200;
+}
